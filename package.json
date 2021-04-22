@@ -25,5 +25,8 @@
   "homepage": "https://github.com/Yan-Jobs/tiig#readme",
   "dependencies": {
     "esm": "^3.2.25"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
   }
 }

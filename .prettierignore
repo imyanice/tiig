@@ -1,0 +1,8 @@
+node_modules/
+.github/
+.prettierrc.json
+LICENSE
+README.md 
+.replit
+yarn.lock
+package.json
