@@ -2,7 +2,7 @@
   "name": "tiig",
   "version": "0.0.1",
   "description": "A cli for beginner users of git.",
-  "main": "./src/index.js",
+  "main": "./src/cli.js",
   "scripts": {
     "test": "node ./derc/index.js"
   },
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Yan-Jobs/tiig/issues"
   },
-  "homepage": "https://github.com/Yan-Jobs/tiig#readme"
+  "homepage": "https://github.com/Yan-Jobs/tiig#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
 }
