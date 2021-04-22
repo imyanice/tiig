@@ -1,0 +1,26 @@
+{
+  "name": "tiig",
+  "version": "0.0.1",
+  "description": "A cli for beginner users of git.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ./derc/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yan-Jobs/tiig.git"
+  },
+  "keywords": [
+    "cli",
+    "git",
+    "beginner",
+    "easy",
+    "fast"
+  ],
+  "author": "Yan-Jobs",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Yan-Jobs/tiig/issues"
+  },
+  "homepage": "https://github.com/Yan-Jobs/tiig#readme"
+}
