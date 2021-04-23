@@ -4,7 +4,8 @@
   "description": "A cli for beginner users of git.",
   "main": "./src/cli.js",
   "scripts": {
-    "test": "node ./derc/index.js"
+    "test": "node ./derc/index.js",
+    "clean": "prettier -w ."
   },
   "repository": {
     "type": "git",
