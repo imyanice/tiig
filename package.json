@@ -30,7 +30,7 @@
     "esm": "^3.2.25",
     "execa": "^5.1.1",
     "fs": "^0.0.1-security",
-    "inquirer": "^8.1.1",
+    "inquirer": "^8.1.2",
     "listr": "^0.14.3",
     "pkg-install": "^1.0.0"
   },
